@@ -13,6 +13,7 @@ I think Visual studio will help you create beautiful, fast windows app's, with a
 # about the project
 the project is hotel windows application using C# language and visual studio 2017 platform  
 * First you have to sign up the account to be saved in the program's database.
+
 ![Capture](https://user-images.githubusercontent.com/80223613/120052213-d6d04700-c02c-11eb-9a40-1e46d563feaf.PNG)
 
 You can book the type of room and determine the number of individuals and from a certain date to a specific date in the hotel
