@@ -3,8 +3,8 @@
 Visual Studio is a platform for create the windows application using C# language,  is used by developers and organizations around the world, and is free and open source.
 
 # Documentation
-*[install Visual studio](https://developer.android.com/studio)
-*[introduction to c# language youtube course](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
+[install Visual studio](https://developer.android.com/studio)
+[introduction to c# language youtube course](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 
 
 hotel windows application using C# language and visual studio 2017 platform  
