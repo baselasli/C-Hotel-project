@@ -16,12 +16,12 @@ the project is hotel windows application using C# language and visual studio 201
 
 ![CaptXDure](https://user-images.githubusercontent.com/80223613/120052520-64f8fd00-c02e-11eb-8b5b-73192b5ec33b.PNG)
 
-* Then you need to login to your account.
+* Then you can proceed to log in to your account.
+.
 
 ![Login](https://user-images.githubusercontent.com/80223613/120052599-bd2fff00-c02e-11eb-8154-0841ef9dc2db.PNG)
 
-* You can book the type of room and determine the number of individuals and from a certain date to a specific date in the hotel
-Algorithms calculate the cost of a room, book it, and save the reservation in the database.
+* In the booking page, pick the room type, number of guests and dates. Then, the booking algorithm will calculate the cost of your room, so you can proceed to book it, and have the reservation saved in the database.
 
 ![Capsdddture](https://user-images.githubusercontent.com/80223613/120052796-b9e94300-c02f-11eb-92af-86c81bf3b9aa.PNG)
 
