@@ -12,11 +12,11 @@ I think Visual studio will help you create beautiful, fast windows app's, with a
 
 # about the project
 the project is hotel windows application using C# language and visual studio 2017 platform  
-* you have to sign up the account to be saved in the program's database.
+* First, you have to sign up for an account.
 
 ![CaptXDure](https://user-images.githubusercontent.com/80223613/120052520-64f8fd00-c02e-11eb-8b5b-73192b5ec33b.PNG)
 
-* Then you need to login to your account
+* Then you need to login to your account.
 
 ![Login](https://user-images.githubusercontent.com/80223613/120052599-bd2fff00-c02e-11eb-8154-0841ef9dc2db.PNG)
 
