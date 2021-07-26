@@ -27,8 +27,8 @@ the project is hotel windows application using C# language and visual studio 201
 
 ![database](https://user-images.githubusercontent.com/80223613/120052803-c5d50500-c02f-11eb-92ff-535d68d4ec23.PNG)
 
-* Dawnload the Application
+# Dawnload the Application
 You have tow ways to download the application to your computer.
-First  download like ZAP file
+* First  download like ZAP file
 ![githup2](https://user-images.githubusercontent.com/80223613/127034879-3c688cb3-b5b8-46b4-afef-11194de1f77b.PNG)
 
