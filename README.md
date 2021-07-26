@@ -31,4 +31,5 @@ the project is hotel windows application using C# language and visual studio 201
 You have tow ways to download the application to your computer.
 * First  download like ZAP file
 ![githup2](https://user-images.githubusercontent.com/80223613/127034879-3c688cb3-b5b8-46b4-afef-11194de1f77b.PNG)
+Then go to your download file and coby the file.
 
