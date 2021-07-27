@@ -25,6 +25,8 @@ the project is hotel windows application using C# language and visual studio 201
 
 ![Capsdddture](https://user-images.githubusercontent.com/80223613/120052796-b9e94300-c02f-11eb-92af-86c81bf3b9aa.PNG)
 
+* Here’s a screenshot of the DB  *Account Table* backing the application
+
 ![database](https://user-images.githubusercontent.com/80223613/120052803-c5d50500-c02f-11eb-92ff-535d68d4ec23.PNG)
 
 # Download the Application
