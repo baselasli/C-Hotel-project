@@ -31,6 +31,8 @@ the project is hotel windows application using C# language and visual studio 201
 To download the application to your computer.
 * Download like ZiP file
 ![githup2](https://user-images.githubusercontent.com/80223613/127034879-3c688cb3-b5b8-46b4-afef-11194de1f77b.PNG)
-Then go to your download file and coby the file and paste it in Visual Studio repos file.
-Open the Visual Studio click on File>>Open>>Project/Solution then select your file.
+# To download the application click here
+
+https://github.com/baselasli/C-Hotel-project/archive/refs/heads/master.zip
+
 
