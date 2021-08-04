@@ -1,9 +1,5 @@
 # C#-Hotel-project
 
-# Documentation
-* [install Visual studio](https://developer.android.com/studio)
-
-* [introduction to C# language youtube course](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 
 
 # about the project
@@ -41,6 +37,10 @@ Open the source code as a VS project, and run file X.sln
 Visual Studio is a platform for create the windows application using C# language,  is used by developers and organizations around the world, and is free and open source.
 I think Visual studio will help you create beautiful, fast windows app's, with a productive, extensible and open development model.
 
+# Documentation
+* [install Visual studio](https://developer.android.com/studio)
+
+* [introduction to C# language youtube course](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 
 
 
