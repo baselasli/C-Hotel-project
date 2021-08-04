@@ -1,8 +1,8 @@
-                                                  # C#-Hotel-project
+# C#-Hotel-project
 
 
 
-# about the project
+## about the project
 the project is hotel windows application using C# language and visual studio 2017 platform  
 * First, you have to sign up for an account.
 
@@ -21,23 +21,23 @@ the project is hotel windows application using C# language and visual studio 201
 
 ![database](https://user-images.githubusercontent.com/80223613/120052803-c5d50500-c02f-11eb-92ff-535d68d4ec23.PNG)
 
-# Download the Application
+## Download the Application
 To download the application to your computer.
 * Download like ZiP file
 ![githup2](https://user-images.githubusercontent.com/80223613/127034879-3c688cb3-b5b8-46b4-afef-11194de1f77b.PNG)
-# To download the application click here
+## To download the application click here
 
 * https://github.com/baselasli/C-Hotel-project/archive/refs/heads/master.zip
 
 Open the source code as a VS project, and run file X.sln
 
-# about Visual Studio
+## about Visual Studio
 ![images (1)](https://user-images.githubusercontent.com/80223613/120051011-a2a65780-c027-11eb-809d-14b22ab61b67.png)
 
 Visual Studio is a platform for create the windows application using C# language,  is used by developers and organizations around the world, and is free and open source.
 I think Visual studio will help you create beautiful, fast windows app's, with a productive, extensible and open development model.
 
-# Documentation
+## Documentation
 * [install Visual studio](https://developer.android.com/studio)
 
 * [introduction to C# language youtube course](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
