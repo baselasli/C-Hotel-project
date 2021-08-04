@@ -31,7 +31,7 @@ To download the application to your computer.
 
 Open the source code as a VS project, and run file X.sln
 
-### Vedioexplaining how to download the project from **GitHup** and run it in **Visual Studio**
+### Vedio explaining how to download the project from **GitHup** and run it in **Visual Studio**
 [https://www.youtube.com/watch?v=_ynMa2XlRgk]()
 
 ## about Visual Studio
